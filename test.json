@@ -3,6 +3,6 @@
     "id":"c",
     "api":"http://dev2.infinitynewtab.com/getUserInfo.php",
     "isOpen":true,
-    "setTime":60
+    "setTime":6
   }
 ]
