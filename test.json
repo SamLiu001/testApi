@@ -1,2 +1,14 @@
 [
+  {
+    "id":"c",
+    "api":"http://dev2.infinitynewtab.com/getUserInfo.php",
+    "isOpen":false,
+    "setTime":"10000
+},
+  {
+    "id":"d",
+    "api":"http://dev2.infinitynewtab.com/getUserInfo.php",
+    "isOpen":false,
+    "setTime":"10000
+}
 ]
