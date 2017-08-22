@@ -1,8 +1,8 @@
 [
   {
     "id":"c",
-    "api":"http://dev2.infinitynewtab.com/getUserInfo.php",
+    "api":"http://www.sdibt.edu.cn/",
     "isOpen":true,
-    "setTime":6
+    "setTime":5
   }
 ]
