@@ -2,7 +2,7 @@
   {
     "id":"c",
     "api":"http://dev2.infinitynewtab.com/getUserInfo.php",
-    "isOpen":false,
+    "isOpen":true,
     "setTime":60
   }
 ]
